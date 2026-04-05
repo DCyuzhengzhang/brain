@@ -1,0 +1,9 @@
+{
+  "name": "memory-management",
+  "description": "四Agent记忆管理系统：基于人脑记忆机制优化长对话记忆，防止关键信息遗忘",
+  "version": "0.1.0",
+  "author": {
+    "name": "Claude Code User"
+  },
+  "keywords": ["memory", "context", "agent", "long-conversation", "retention"]
+}
